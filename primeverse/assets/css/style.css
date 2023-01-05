@@ -1008,7 +1008,6 @@ html {
 /*-----------------------------------*\
   #TESTIMONIAL
 \*-----------------------------------*/
-
 .testimonials {
   padding: var(--py) var(--px);
   background: var(--cultured);
@@ -1071,10 +1070,6 @@ html {
   color: var(--red-orange-color-wheel);
   font-size: var(--fs-6);
 }
-
-
-
-
 
 /*-----------------------------------*\
   #BLOG
